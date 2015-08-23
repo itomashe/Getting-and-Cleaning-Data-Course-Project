@@ -1,4 +1,7 @@
-##The dataset includes the following files:
+Data for the project: 
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+Files were unzipped into working directory.
+###The dataset includes the following files:
 - 'features_info.txt': Shows information about the variables used on the feature vector.
 - 'features.txt': List of all features.
 - 'activity_labels.txt': Links the class labels with their activity name.
